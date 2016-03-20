@@ -1,0 +1,28 @@
+name: Sean William Fry
+favicon: null
+layout_spectrum: 0.38243128755129874
+typography_spectrum: 0.3272228117566556
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6920164045877755
+  lightness: 0.874225809937343
+  saturation: 0.4094631306361407
+  rhythmicContrast: 0.7023664438165724
+purpose: []
